@@ -28,7 +28,7 @@ Almost 4 years ago Vitálik Buterin, co founder of Ethereum posted in twitter th
 
 At that time it grabbed the attention of almost the entire crypto space and the answers regarding that question were mostly a big “Not many if at all”. Of course, there have been isolated projects that try to work with the developed world with several big names attached, but not to much avail. Cryptocurrencies and blockchain technology from that time onwards has mostly been used by a few early adopters and some others, but were mostly already banked, educated people, even in the developing world. 
 
-Now, let’s ask that same question today; How many unbanked have we banked by the year 2021? Despite having made great progress and having outliers like the country of El Salvador, outside of that, the progress is almost null. Most of the same people that are into crypto today have been in for years and are the same elite, educated, previously banked ones, it has not reached those who are not.   
+Now, let’s ask that same question today; How many unbanked have we banked by the year 2022? Despite having made great progress and having outliers like the country of El Salvador, outside of that, the progress is almost null. Most of the same people that are into crypto today have been in for years and are the same elite, educated, previously banked ones, it has not reached those who are not.   
 
 We can say that because our team lives in one of those developing countries that countless projects try to portray as a target for financial inclusion, which is Mexico. 
 
@@ -45,13 +45,13 @@ It is important to mention that, according to the World Bank, 65% of Mexican adu
 
 CoinPoint is a cash out ramp and Point of Sale Superapp. We combine TradFi through Rapyd with Web3 to improve Financial Inclusion in Mexico and LATAM.
 
-System's Architecture:
+# System's Architecture:
 
 <img src="https://i.ibb.co/WVfDGZQ/scheme-drawio-1.png">
 
 - All Ethereum transactions are controlled through [web3.js](https://web3js.readthedocs.io/en/v1.8.0/), [Coinbase Wallet SDK](https://www.coinbase.com/cloud/products/wallet-sdk) and [Coinbase Cloud Node](https://www.coinbase.com/cloud/products/node) on mainnet.
 
-- Thanks to the Rapyd APIs we can manage users and KYC of our app. (https://www.rapyd.net/)
+- Through Rapyd's APIs we can manage users and KYC of our app. (https://www.rapyd.net/)
 
 # Point of Sale application:
 
