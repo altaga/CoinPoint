@@ -1,5 +1,5 @@
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE) [<img src="https://img.shields.io/badge/View-Video-red">](pending)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE) [<img src="https://img.shields.io/badge/View-Video-red">](https://youtu.be/Xc7nSASLbJg)
 
 # CoinPoint
 <img src="https://i.ibb.co/wswWfpn/logo.png" width="50%">
@@ -18,7 +18,7 @@ POS App APK: [LINK](./CoinPoint-ReactNative-Apk/app-release.apk)
 
 ## Here is our main demo video: 
 
-[![Demo](https://i.ibb.co/g4W3ypx/image.png)](pending)
+[![Demo](https://i.ibb.co/g4W3ypx/image.png)](https://youtu.be/Xc7nSASLbJg)
 
 # Introduction and Problem
 
