@@ -83,7 +83,6 @@ CoinPoint is a cash out ramp and Point of Sale Superapp. We combine TradFi throu
 
   <img src="https://i.ibb.co/cNC601b/010.png" width="32%">
 
-- Let's print!
 
 <img src="./Img/gifPrint.gif">
 
